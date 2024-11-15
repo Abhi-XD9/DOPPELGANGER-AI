@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#navbar{
+    position: sticky;
+     top:0;
+     z-index: 1;
+    
+}
+
