@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base:"/FaceSearch-AI/",
+  base:"/DOPPELGANGER-AI/",
   build: {
     rollupOptions: {
       input: '/src/main.jsx', 
